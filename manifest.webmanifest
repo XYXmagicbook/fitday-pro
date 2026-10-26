@@ -1,0 +1,16 @@
+{
+  "name": "FitDay 燃动日记",
+  "short_name": "FitDay",
+  "description": "每一天的坚持，都在塑造更好的自己。运动教学+卡路里库+智能计划+AI健康教练。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0f14",
+  "theme_color": "#FF6B2C",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
